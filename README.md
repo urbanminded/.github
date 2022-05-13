@@ -1,2 +1,3 @@
-# .github
-Organisational GitHub configuration: templates, docs, etc.
+# Urbanminded GitHub Configurationi
+
+This repository contains **public** GitHub organisation-wide configuration files.

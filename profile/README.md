@@ -1,3 +1,3 @@
 # Urbanminded Organisation
 
-This is a README for the urbanminded organisation
+This is a (public) README for the urbanminded organisation
