@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report
-title: ''
+title: '[BUG]'
 labels: bug
 assignees: ''
 
@@ -18,6 +18,10 @@ the problem you're facing:
 
 **To Reproduce**
 Steps to reproduce the behavior:
+1. mkdir build; cd build
+2. cmake -DBOARD=board\_xyz
+3. make
+4. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -32,8 +36,8 @@ copy-and-paste text and put a code fence (\`\`\`) before and after, to help
 explain the issue. (if unable to obtain text log, add a screenshot)
 
 **Environment (please complete the following information):**
- - OS: (e.g. Linux, MacOS, Windows)
- - Toolchain (e.g Zephyr SDK, ...)
+ - OS: (e.g. Linux, MacOS, Windows, Android, iOS)
+ - Toolchain (e.g Zephyr SDK, Flutter, Go, ...)
  - Commit SHA or Version used
 
 **Additional context**
