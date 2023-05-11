@@ -6,17 +6,15 @@ labels: enhancement
 assignees: ''
 
 ---
-### Context
 
-Is your feature request related to a problem? Please describe it.
-- A clear and concise description of what the problem is.
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
 
-### Requirement
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-Describe the solution you'd like
-- A clear and concise description of what you want to happen.
-- A clear and concise description of any alternative solutions or features you've considered.
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-### Reference
-- Design files (if applicable) of your proposed solution
-- Flowcharts (if applicable) giving context to your proposed solution
+**Additional context**
+Add any other context or graphics (drag-and-drop an image) about the feature request here.
