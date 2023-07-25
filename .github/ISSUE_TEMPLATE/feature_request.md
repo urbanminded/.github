@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: '[FEATURE]'
 labels: enhancement
-project: Catch Platform
+projects: 'Catch Platform'
 assignees: ''
 
 ---
